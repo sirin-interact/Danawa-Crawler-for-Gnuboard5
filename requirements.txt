@@ -1,0 +1,12 @@
+requests
+retry-requests
+psutil
+configparser
+selenium
+pyautogui
+pyinstaller
+webdriver-manager
+beautifulsoup4 
+openpyxl
+pypiwin32
+pyaudio
